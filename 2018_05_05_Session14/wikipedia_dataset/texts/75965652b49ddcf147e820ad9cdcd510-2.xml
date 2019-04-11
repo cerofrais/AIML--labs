@@ -1,0 +1,14 @@
+<document id="75965652b49ddcf147e820ad9cdcd510-2" name="Arena_Active_Protection_System" cat="29">
+<text>
+The ''Arena'' system was primarily designed to defeat threats such as the rocket propelled grenade and the anti-tank missile, including newer anti-tank missiles with longer ranges.  The active protection system can protect against missiles fired from both infantry carried rocket launchers and from helicopters, which attack the vehicle directly or by overflying it.''KB Mashynostroyeniya'', , accessed 22 December 2008  Modern rocket propelled grenades can penetrate almost  of steel armour, posing a serious threat to tanks operating in environments of asymmetrical warfare.  Therefore, increased tank protection requires  either an increase in armour thickness and weight, or alternatively the use of an active protection system, like ''Arena''.Hazell, p. 113
+
+
+
+The system uses a multi-function Doppler radar, which can be turned on and off by the tank commander.Baryantinsky, p. 73    In conjunction with radar input, a digital computer scans an arc around the tank for threats, and evaluates which  of the tank's 26 quick-action projectiles it will release to intercept the incoming threat.Baryantinsky, pp. 72–73  In selecting the projectile to use for defeating the threat, the ballistic computer employs the information processed by the radar, including information such as flight parameters and velocity.Baryantinsky, pp. 73–74  The computer has a reaction time of 0.05 seconds and protects the tank over a 300-degree arc, everywhere but the rear side of the turret. The system engages targets within  of the vehicle it is defending, and the ammunition detonates at around  from the threat.  It will engage any threat approaching the tank between the velocities of  and , and can detect false targets, such as outgoing projectiles, birds and small caliber bullets.  ''Arena'' works during the day and night, and the lack of electromagnetic interference allows the system to be used by multiple vehicles as a team.Baryantinsky, p. 80  The 27-volt system requires approximately one kilowatt of power, and weighs around .  ''Arena'' increases a tank's probability of surviving a rocket-propelled grenade by between 1.5–2 times.Baryantinsky, pp. 82–83
+
+''Shtora'' was a soft-kill system, designed to passively defeat anti-tank missiles by jamming their guidance systems.  By contrast, ''Arena'' is a hard-kill system, like ''Drozd'', in that it aims to destroy the warhead through the use of munitions before the missile can engage the vehicle being protected.
+</text>
+<imageset>
+<image id="25425fc95b2b078e376d885e8025391d" name="RPG7" sectnum="2#1">../img/25425fc95b2b078e376d885e8025391d.jpg</image>
+</imageset>
+</document>

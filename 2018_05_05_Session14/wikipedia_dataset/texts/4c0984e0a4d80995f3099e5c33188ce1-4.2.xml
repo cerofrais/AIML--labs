@@ -1,0 +1,24 @@
+<document id="4c0984e0a4d80995f3099e5c33188ce1-4.2" name="Bacteria" cat="3">
+<text>
+Around the outside of the cell membrane is the bacterial cell wall. Bacterial cell walls are made of peptidoglycan (called murein in older sources), which is made from polysaccharide chains cross-linked by unusual peptides containing D-amino acids. Bacterial cell walls are different from the cell walls of plants and fungi, which are made of cellulose and chitin, respectively. The cell wall of bacteria is also distinct from that of Archaea, which do not contain peptidoglycan. The cell wall is essential to the survival of many bacteria, and the antibiotic penicillin is able to kill bacteria by inhibiting a step in the synthesis of peptidoglycan.
+
+There are broadly speaking two different types of cell wall in bacteria, called Gram-positive and Gram-negative. The names originate from the reaction of cells to the Gram stain, a test long-employed for the classification of bacterial species.
+
+Gram-positive bacteria possess a thick cell wall containing many layers of peptidoglycan and teichoic acids. In contrast, Gram-negative bacteria have a relatively thin cell wall consisting of a few layers of peptidoglycan surrounded by a second lipid membrane containing lipopolysaccharides and lipoproteins. Most bacteria have the Gram-negative cell wall, and only the Firmicutes and Actinobacteria (previously known as the low G+C and high G+C Gram-positive bacteria, respectively) have the alternative Gram-positive arrangement. These differences in structure can produce differences in antibiotic susceptibility; for instance, vancomycin can kill only Gram-positive bacteria and is ineffective against Gram-negative pathogens, such as ''Haemophilus influenzae'' or ''Pseudomonas aeruginosa''.
+
+In many bacteria an S-layer of rigidly arrayed protein molecules covers the outside of the cell. This layer provides chemical and physical protection for the cell surface and can act as a macromolecular diffusion barrier. S-layers have diverse but mostly poorly understood functions, but are known to act as virulence factors in ''Campylobacter'' and contain surface enzymes in ''Bacillus stearothermophilus''.
+
+
+
+Flagella are rigid protein structures, about 20 nanometres in diameter and up to 20 micrometres in length, that are used for motility. Flagella are driven by the energy released by the transfer of ions down an electrochemical gradient across the cell membrane.
+
+Fimbriae are fine filaments of protein, just 2–10 nanometres in diameter and up to several micrometers in length. They are distributed over the surface of the cell, and resemble fine hairs when seen under the electron microscope. Fimbriae are believed to be involved in attachment to solid surfaces or to other cells and are essential for the virulence of some bacterial pathogens. Pili (''sing''. pilus) are cellular appendages, slightly larger than fimbriae, that can transfer genetic material between bacterial cells in a process called conjugation (see bacterial genetics, below).
+
+Capsules or slime layers are produced by many bacteria to surround their cells, and vary in structural complexity: ranging from a disorganised slime layer of extra-cellular polymer, to a highly structured capsule or glycocalyx. These structures can protect cells from engulfment by eukaryotic cells, such as macrophages. They can also act as antigens and be involved in cell recognition, as well as aiding attachment to surfaces and the formation of biofilms.
+
+The assembly of these extracellular structures is dependent on bacterial secretion systems. These transfer proteins from the cytoplasm into the periplasm or into the environment around the cell. Many types of secretion systems are known and these structures are often essential for the virulence of pathogens, so are intensively studied.
+</text>
+<imageset>
+<image id="d55f30f97b0ed75e520770fed8504f95" name="EMpylori" sectnum="4.2#1">../img/d55f30f97b0ed75e520770fed8504f95.jpg</image>
+</imageset>
+</document>

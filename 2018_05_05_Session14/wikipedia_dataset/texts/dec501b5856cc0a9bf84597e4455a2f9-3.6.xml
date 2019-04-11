@@ -1,0 +1,17 @@
+<document id="dec501b5856cc0a9bf84597e4455a2f9-3.6" name="Genetics" cat="3">
+<text>
+The molecular basis for genes is deoxyribonucleic acid (DNA). DNA is composed of a chain of nucleotides, of which there are four types: adenine (A), cytosine (C), guanine (G), and thymine (T). Genetic information exists in the sequence of these nucleotides, and genes exist as stretches of sequence along the DNA chain. Viruses are the only exception to this rule—sometimes viruses use the very similar molecule RNA instead of DNA as their genetic material.
+
+DNA normally exists as a double-stranded molecule, coiled into the shape of a double-helix. Each nucleotide in DNA preferentially pairs with its partner nucleotide on the opposite strand: A pairs with T, and C pairs with G. Thus, in its two-stranded form, each strand effectively contains all necessary information, redundant with its partner strand. This structure of DNA is the physical basis for inheritance: DNA replication duplicates the genetic information by splitting the strands and using each strand as a template for synthesis of a new partner strand.
+
+Genes are arranged linearly along long chains of DNA sequence, called chromosomes. In bacteria, each cell has a single circular chromosome, while eukaryotic organisms (which includes plants and animals) have their DNA arranged in multiple linear chromosomes. These DNA strands are often extremely long; the largest human chromosome, for example, is about 247 million base pairs in length. The DNA of a chromosome is associated with structural proteins that organize, compact, and control access to the DNA, forming a material called chromatin; in eukaryotes, chromatin is usually composed of nucleosomes, repeating units of DNA wound around a core of histone proteins.Alberts et al. (2002),  The full set of hereditary material in an organism (usually the combined DNA sequences of all chromosomes) is called the genome.
+
+While haploid organisms have only one copy of each chromosome, most animals and many plants are diploid, containing two of each chromosome and thus two copies of every gene. The two alleles for a gene are located on identical loci of sister chromatids, each allele inherited from a different parent.
+
+
+An exception exists in the sex chromosomes, specialized chromosomes many animals have evolved that play a role in determining the sex of an organism. In humans and other mammals, the Y chromosome has very few genes and triggers the development of male sexual characteristics, while the X chromosome is similar to the other chromosomes and contains many genes unrelated to sex determination. Females have two copies of the X chromosome, but males have one Y and only one X chromosome - this difference in X chromosome copy numbers leads to the unusual inheritance patterns of sex-linked disorders.
+</text>
+<imageset>
+<image id="6d93db3a398a007d579660b1d6357143" name="Zell-substanz-book-illustrations" sectnum="3.6#1">../img/6d93db3a398a007d579660b1d6357143.jpg</image>
+</imageset>
+</document>

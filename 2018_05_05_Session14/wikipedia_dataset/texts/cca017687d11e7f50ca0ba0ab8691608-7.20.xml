@@ -1,0 +1,10 @@
+<document id="cca017687d11e7f50ca0ba0ab8691608-7.20" name="Iowa_class_battleship" cat="29">
+<text>
+In 1967 Egypt sank the Israeli destroyer ''Eilat'' using a Soviet SS-N-2 STYX missile, prompting the Chief of Naval Operations (CNO) to consider creating a family of inexpensive Electronic Warfare suites to replace and/or complement existing and planned ship surveillance sensors in the early 1970s, a feeling increased when an analysis of the existing AN/WLR-1 and AN/ULQ-6 systems installed on most ships determined that neither system could counter an Anti-Ship Cruise Missile (ASCM) in time to prevent a hit. In addition, hard kill weapons were not effective because there was little early warning of an attack due to the characteristics of ASCMs. The resulting EW suite was the AN/SLQ-32(V), which debuted in 1979 and was capable of early warning of threat weapon system emitters and emitters associated with targeting platforms, threat information to own ship hard-kill weapons, automatic dispensing of chaff decoys, and Electronic Attack (EA) to alter specific and generic ASCM trajectories. This system, specifically the SLQ-32(V)3 variant, was fitted to the ''Iowa'' class battleships in 1980s for defense against enemy anti-ship missiles.
+
+To counter the threat posed by enemy submarines the ''Iowa'' class were also outfitted with the AN/SLQ-25 Nixie, a towed torpedo decoy used on US and allied warships. It consists of a towed decoy device, and a shipboard signal generator. The decoy emits signals to draw a torpedo away from its intended target. The Nixie attempts to defeat a torpedo's passive sonar by emitting simulated ship noise, such as propeller and engine noise, which is more attractive than the ship to the torpedo's sensors. Active sonar is decoyed by amplifying and returning "pings" from the torpedo, presenting a larger false target to the torpedo.
+</text>
+<imageset>
+<image id="51c9f0bf6dc1e4065e8bfbf6004782ab" name="SLQ-32_console_USS_Iowa" sectnum="7.20#1">../img/51c9f0bf6dc1e4065e8bfbf6004782ab.jpg</image>
+</imageset>
+</document>

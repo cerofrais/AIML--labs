@@ -1,0 +1,16 @@
+<document id="84f98075bd8d75d5dfe71edde86191d7-4.10" name="Armament_of_the_Iowa_class_battleship" cat="29">
+<text>
+For protection against enemy ships, the ''Iowa'' class is outfitted with the Harpoon Weapons System. The system consists of four Mk 141 "shock-hardened" quad cell launchers designed to carry and fire the McDonnell Douglas RGM-84 Harpoon anti-ship missile. Each Harpoon is placed in one of four Mk 141 launchers located alongside the aft stack; eight per side, in two pods of four. The weight of the Harpoon at firing is , which includes a booster weighing about . The cruising speed is 0.87 Mach and the maximum range is 64 nautical miles (nm) in Range and Bearing Launch mode and 85 nm in Bearing Only Launch mode.
+
+When an ''Iowa'' class battleship fires a Harpoon Missile, a booster propels the missile away from the ship; after approximately , the booster drops away. After the booster is discarded a turbojet engine ignites and propels the missile to the target. The stabilizing and actuator fins which help guide the missile to its target are stored folded in the canister and spring into position after launching. These fins direct the missile to the target through inputs from the AN/SWG-1 Harpoon Fire Control System.
+
+The battleships carry and use the RGM/UGM-84 variants of the Harpoon Missile, which are designed to be fired by surface ships. The version uses a solid-fueled rocket booster in an A/B44G-2 or -3 booster section, which is discarded after burn-out. The maximum range is around 140 km (75 nautical miles).
+
+After launch, the missile is guided towards the target location as determined by the ship by a three-axis Attitude Reference Assembly (ATA) in an AN/DSQ-44 guidance section. The ATA is less accurate than a full-fledged inertial system, but good enough for Harpoon's range. For stabilization and control, the AGM-84A has four fixed cruciform wings (3x BSU-42/B, 1x BSU-43/B) and four movable BSU-44/B tail fins. The missile flies at a low cruise altitude and at a predetermined distance from the expected target position, its AN/DSQ-28 J-band active radar seeker in the nose is activated to acquire and lock on the target. The radar switch-on distance can be set to lower or higher values, the former requiring a more precisely-known target location but reducing the risk to be fooled by enemy Electronic Counter Measures (ECM). 
+
+An alternative launch mode is called Bearing-Only Launch (BOL). In this mode, the missile is launched in the general direction of the target, and its radar activated from the beginning to scan for the target in a +/- 45° sector in front of the flight path. Once a target has been located and the seeker locked the xGM-84A missile climbs rapidly to about 1800 m before diving on the target in what is known as a "pop-up maneuver". The 221 kg (488 lb) WDU-18/B penetrating blast-fragmentation warhead (in the WAU-3(V) /B warhead section) is triggered by a time-delayed impact fuse. When no target can be acquired after radar activation, the Harpoon will self-destruct.
+</text>
+<imageset>
+<image id="e70f59e1536c81d39a0c91bdcf4eb12a" name="Mk_141_Harpoon_Missile_Launcher" sectnum="4.10#1">../img/e70f59e1536c81d39a0c91bdcf4eb12a.jpg</image>
+</imageset>
+</document>

@@ -1,0 +1,24 @@
+<document id="4143d621e742074887b0ecba0011d1da-5.16" name="Action_potential" cat="3">
+<text>
+The flow of currents within an axon can be described quantitatively by cable theory and its elaborations, such as the compartmental model. Cable theory was developed in 1855 by Lord Kelvin to model the transatlantic telegraph cable and was shown to be relevant to neurons by Hodgkin and Rushton in 1946. In simple cable theory, the neuron is treated as an electrically passive, perfectly cylindrical transmission cable, which can be described by a partial differential equation
+
+:
+\tau \frac{\partial V}{\partial t} = \lambda^{2} \frac{\partial^{2} V}{\partial x^{2}} - V
+
+
+where ''V(x, t)'' is the voltage across the membrane at a time ''t'' and a position ''x'' along the length of the neuron, and where λ and τ are the characteristic length and time scales on which those voltages decay in response to a stimulus. Referring to the circuit diagram above, these scales can be determined from the resistances and capacitances per unit lengthPurves ''et al.'', pp. 52–53.
+
+:
+\tau =\ r_{m} c_{m}
+
+
+:
+\lambda = \sqrt \frac{r_m}{r_l}
+
+
+These time- and length-scales can be used to understand the dependence of the conduction velocity on the diameter of the neuron in unmyelinated fibers. For example, the time-scale τ increases with both the membrane resistance ''r''''m'' and capacitance ''c''''m''.  As the capacitance increases, more charge must be transferred to produce a given transmembrane voltage (by the equation ''Q=CV''); as the resistance increases, less charge is transferred per unit time, making the equilibration slower.  Similarly, if the internal resistance per unit length ''r''''i'' is lower in one axon than in another (e.g., because the radius of the former is larger), the spatial decay length λ becomes longer and the conduction velocity of an action potential should increase. If the transmembrane resistance ''r''''m'' is increased, that lowers the average "leakage" current across the membrane, likewise causing λ to become longer, increasing the conduction velocity.
+</text>
+<imageset>
+<image id="f0d3778747f6500a88aa1215e2a633ae" name="NeuronResistanceCapacitanceRev" sectnum="5.16#1">../img/f0d3778747f6500a88aa1215e2a633ae.jpg</image>
+</imageset>
+</document>

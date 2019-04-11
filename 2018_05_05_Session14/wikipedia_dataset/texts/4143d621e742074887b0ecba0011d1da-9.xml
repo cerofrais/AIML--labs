@@ -1,0 +1,20 @@
+<document id="4143d621e742074887b0ecba0011d1da-9" name="Action_potential" cat="3">
+<text>
+The study of action potentials has required the development of new experimental methods.   The initial work, prior to 1955, focused on three goals: isolating signals from single neurons or axons, developing fast, sensitive electronics, and shrinking electrodes enough that the voltage inside a single cell could be recorded.
+
+The first problem was solved by studying the giant axons found in the neurons of the squid genus ''Loligo''.  These axons are so large in diameter (roughly 1 mm, or 100-fold larger than a typical neuron) that they can be seen with the naked eye, making them easy to extract and manipulate.  However, the ''Loligo'' axons are not representative of all excitable cells, and numerous other systems with action potentials have been studied.
+
+The second problem was addressed with the crucial development of the voltage clamp, which permitted experimenters to study the ionic currents underlying an action potential in isolation, and eliminated a key source of electronic noise, the current ''I''''C''  associated with the capacitance ''C'' of the membrane.Junge, pp. 63–82.  Since the current equals ''C'' times the rate of change of the transmembrane voltage ''V''''m'', the solution was to design a circuit that kept ''V''''m'' fixed (zero rate of change) regardless of the currents flowing across the membrane.  Thus, the current required to keep ''V''''m'' at a fixed value is a direct reflection of the current flowing through the membrane. Other electronic advances included the use of Faraday cages and electronics with high input impedance, so that the  measurement itself did not affect the voltage being measured.
+
+The third problem, that of obtaining electrodes small enough to record voltages within a single axon without perturbing it, was solved in 1949 with the invention of the glass micropipette electrode, which was quickly adopted by other researchers.  Refinements of this method are able to produce electrode tips that are as fine as 100 Å (10 nm), which also confers high input impedance.  Action potentials may also be recorded with small metal electrodes placed just next to a neuron, with neurochips containing EOSFETs, or optically with dyes that are sensitive to Ca2+ or to voltage.* 
+
+
+
+While glass micropipette electrodes measure the sum of the currents passing through many ion channels, studying the electrical properties of a single ion channel became possible in the 1970s with the development of the patch clamp by Erwin Neher and Bert Sakmann.  For this they were awarded the Nobel Prize in Physiology or Medicine in 1991.   Patch-clamping verified that ionic channels have discrete states of conductance, such as open, closed and inactivated.
+
+Optical imaging technologies have been developed in recent years to measure action potentials, either via simultaneous multisite recordings or with ultra spatial resolution. Using voltage-sensitive dyes, action potentials have been optically recorded from a tiny patch of cardiomyocyte membrane.Guixue Bu, et al. Uniform action potential repolarization within the sarcolemma of in situ ventricular cardiomyocytes. ''Biophysical Journal'', Vol.96, No.6, March 2009, pp.2532-2546.
+</text>
+<imageset>
+<image id="b3ccb5e38e60bebb1a35dc5c621d0582" name="Loligo_vulgaris" sectnum="9#1">../img/b3ccb5e38e60bebb1a35dc5c621d0582.jpg</image>
+</imageset>
+</document>
